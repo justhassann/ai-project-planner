@@ -4,13 +4,6 @@ A single-page application that uses the Gemini AI to instantly turn a high-level
 
 This project was built to demonstrate a full-stack skillset, including sophisticated AI prompt engineering and complex, multi-step API integrations.
 
----
-
-### ✨ Live Demo & Screenshot
-
-**(I highly recommend you record a short GIF of the app working and embed it here. A moving image is 10x more impressive than a static one. You can use a tool like Giphy Capture or EZGif to create one from your Loom video.)**
-
-![AI Project Planner Demo](URL_TO_YOUR_GIF_OR_SCREENSHOT)
 
 ---
 
